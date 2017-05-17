@@ -1,2 +1,2 @@
 # design-jd-EShop
-京东ue设计文档
+京东商城ue设计文档
